@@ -59,11 +59,11 @@ python main.py --config configs/experiment1.yaml
 ```
 
 ## 📊 Results
-- ** Semi-supervised models significantly outperformed fully-supervised baselines
+- Semi-supervised models significantly outperformed fully-supervised baselines
 
-- ** Clear correlation between labeled/unlabeled data proportions and performance
+- Clear correlation between labeled/unlabeled data proportions and performance
 
-- ** Visualisations of segmentation results across different methods
+- Visualisations of segmentation results across different methods
 
 ## 📦 Requirements
 Python 3.8+
@@ -75,9 +75,9 @@ nibabel 5.3+
 pillow 11.0+
 
 ## 🔮 Future Work
-- **Explore additional semi-supervised learning strategies
+- Explore additional semi-supervised learning strategies
 
-- **Extend segmentation to other anatomical regions
+- Extend segmentation to other anatomical regions
 
 - **Integrate active learning techniques for efficient data labeling
 
