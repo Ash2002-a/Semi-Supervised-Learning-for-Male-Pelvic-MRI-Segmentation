@@ -48,7 +48,7 @@ conda create -n ssl-segmentation-pt -c conda-forge pytorch=2.4 torchvision=0.14 
 
 # Activate your environment
 conda activate ssl-segmentation-tf  # or ssl-segmentation-pt
-
+```
 ## ▶️ Usage
 Place the dataset into the data/ directory
 
@@ -56,6 +56,7 @@ Run experiments using config files:
 
 ```bash
 python main.py --config configs/experiment1.yaml
+```
 
 ## 📊 Results
 - ** Semi-supervised models significantly outperformed fully-supervised baselines
